@@ -1,6 +1,5 @@
 # Design Patterns in Python
 
-
 All **23 classic (GoF) design patterns** implemented in modern, dependency-free Python — written as **hands-on tutorials**, not just code dumps. Every pattern is a self-contained package with a runnable demo, a test suite, and a README that explains the problem, the solution, real-world use cases, Pythonic alternatives, and exercises.
 
 ## Requirements
